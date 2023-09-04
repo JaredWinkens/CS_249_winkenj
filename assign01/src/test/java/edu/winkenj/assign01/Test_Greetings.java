@@ -1,4 +1,4 @@
-package edu.realemj.assign01;
+package edu.winkenj.assign01;
 // NOTE: CHANGE realemj to YOUR SITNETID!!!
 import edu.realemj.testing.*;
 import org.testng.Assert;

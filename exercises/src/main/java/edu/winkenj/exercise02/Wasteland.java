@@ -6,6 +6,7 @@ public class Wasteland {
 
         NPC jackson = new NPC();
         NPC forest = new NPC();
+        NPC jim = new NPC(90,'E');
 
         int h = jackson.getHealth();
         h -= 5;

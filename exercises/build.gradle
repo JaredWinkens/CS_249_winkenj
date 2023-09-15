@@ -19,7 +19,7 @@ test {
 }
 
 application {
-    mainClass = "edu.winkenj.exercise02.Wasteland"
+    mainClass = "edu.winkenj.exercise04.MathemagicLand"
     mainModule = "exercisesmod"
 }
 

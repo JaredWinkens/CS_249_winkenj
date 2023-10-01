@@ -3,4 +3,5 @@ module exercisesmod{
     exports edu.winkenj.exercise03;
     exports edu.winkenj.exercise04;
     exports edu.winkenj.exercise05;
+    exports edu.winkenj.exercise06;
         }

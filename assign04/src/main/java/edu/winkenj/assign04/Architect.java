@@ -1,4 +1,4 @@
-package edu.realemj.assign04;
+package edu.winkenj.assign04;
 
 import java.util.*;
 
@@ -22,6 +22,7 @@ public class Architect {
             b.draw(buffer);
             System.out.println(buffer.getDisplayString());
             System.out.println("Again? (y/n)");
+            buffer.clear();
             cont = input.next().charAt(0);
         }while(cont == 'y');
     }

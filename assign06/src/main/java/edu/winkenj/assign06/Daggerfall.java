@@ -1,6 +1,5 @@
-package edu.realemj.assign06;
+package edu.winkenj.assign06;
 //NOTE: CHANGE realemj to YOUR SITNETID!!!
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;

@@ -1,5 +1,5 @@
-package edu.realemj.assign06;
-import edu.realemj.assign04.ScreenBuffer;
+package edu.winkenj.assign06;
+import edu.winkenj.assign04.ScreenBuffer;
 //NOTE: CHANGE realemj to YOUR SITNETID!!!
 import org.testng.annotations.Test;
 
